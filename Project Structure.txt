@@ -1,0 +1,7 @@
+blog-backend/
+├── controllers/
+│   └── blogController.js
+├── routes/
+│   └── blogRoutes.js
+├── app.js
+└── package.json
